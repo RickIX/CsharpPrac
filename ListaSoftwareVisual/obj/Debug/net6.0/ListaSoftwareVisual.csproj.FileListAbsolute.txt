@@ -1,0 +1,14 @@
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\bin\Debug\net6.0\ListaSoftwareVisual.exe
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\bin\Debug\net6.0\ListaSoftwareVisual.deps.json
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\bin\Debug\net6.0\ListaSoftwareVisual.runtimeconfig.json
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\bin\Debug\net6.0\ListaSoftwareVisual.dll
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\bin\Debug\net6.0\ListaSoftwareVisual.pdb
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\ListaSoftwareVisual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\ListaSoftwareVisual.AssemblyInfoInputs.cache
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\ListaSoftwareVisual.AssemblyInfo.cs
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\ListaSoftwareVisual.csproj.CoreCompileInputs.cache
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\ListaSoftwareVisual.dll
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\refint\ListaSoftwareVisual.dll
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\ListaSoftwareVisual.pdb
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\ListaSoftwareVisual.genruntimeconfig.cache
+C:\Users\lilid\Documents\C#\ListaSoftwareVisual\obj\Debug\net6.0\ref\ListaSoftwareVisual.dll
